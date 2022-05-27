@@ -1,3 +1,17 @@
+html {
+  background-color: #dbdacd;
+}
+
+body {
+  background-color: #dbdacd;
+}
+
+.content-wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+}
+
 .character-0 {
   color : #a5559f;
 }
