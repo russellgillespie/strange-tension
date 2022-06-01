@@ -1,0 +1,46 @@
+strange-tension<div class="character-1"><p>As the boat crests the edge, Maouelue gets a view of a massive cavern, strewn with rock crevasses, lava flows, and a huge waterway interconnecting everything.  A variety of beasts can be heard growling throughout, and, just as he's about to plummet over the lip, he sees an <i>enormous</i> being in the center, carrying a greatclub over a shoulder.  Then, they plummet...</p></div>
+<div class="character-1"><p>The ice boat descends into the cavern, a multitude of other waterfalls mix and add to the chaos.  Judging the distance down at near 200 feet, Maouelue and his crew brace for impact into the fluid below.  Fluid, not water.  He sees, as it comes up quickly, that it's a brownish, greenish soup.</p></div>
+<div class="character-1"><p>It's difficult to breathe now as the air in this portion of the mountain is steeped in lava ash and soot.  The boat melts on the way down.  The four are plunged into the depths of the fluid and find that they cannot see right in front of them.  It's a struggle to get back to the surface as the liquid is very thick, viscous.  (Dex saves, please!)</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (5) = <code>5</code></p><p>1d20 (3) = <code>3</code></p><p>8 total.</p></div>
+<div class="character-1"><p>Maouelue breaks the water, followed closely by Bellatrix and Benna.  Immediately, they're all caught in a current that pulls them farther down.  Daran is able to land clear of the current, and he breaks the surface... without the others.  He tries to check on the others, but he can't see more than a couple inches in front of him.</p></div>
+<div class="character-1"><p>He dives down once, twice.  He still can't see them and can't tell where they might be.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p><i>A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).  When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can't regain hit points or be stabilized until it can breathe again.</i></p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Although the heavy armor catches the water being sucked into the center of the lake, Maouelue rights himself and starts making pace against the flow.</p></div>
+<div class="character-1"><p>The wizard is pulling, straining against the dense water on top of him.  (Strength save, please!)</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The group meet each other at the surface of the primordial swampy lake, bits of algae float along, adrift on the sea.  They make their way to the closest edge, but just as they get near, they see...</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Five hounds, lapping at the brackish, disgusting water.  Steam rises from their hides.  (Stealth checks, please!)</p></div>
+<div class="character-2"><p>@SuoRess</p><p>Rolling 5 iterations...</p><p>1d20 (13) + 1 = </p><p>1d20 (9) + 1 = </p><p>1d20 (10) + 1 = </p><p>1d20 (9) + 1 = </p><p>1d20 (3) + 1 = </p><p>49 total.</p></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (14) = <code>14</code></p><p>1d20 (8) = <code>8</code></p><p>22 total.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The hounds do not notice the heroes as they wade in the water.  (If you get closer, though, they might.  What would the group like to do?)</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@SuoRess</p><p>Rolling 5 iterations...</p><p>1d20 (3) + 1 = </p><p>1d20 (10) + 1 = </p><p>1d20 (</p><p>1d20 (8) + 1 = </p><p>1d20 (5) + 1 = </p><p>32 total.</p></div>
+<div class="character-2"><p>HE1 was added to combat with initiative 22 as part of group Hellz.</p></div>
+<div class="character-2"><p>HE1 removed from combat.</p></div>
+<div class="character-2"><p>HE1 was added to combat with initiative 23 as part of group Hellz.</p><p>HE2 was added to combat with initiative 23 as part of group Hellz.</p><p>HE3 was added to combat with initiative 23 as part of group Hellz.</p><p>HE4 was added to combat with initiative 23 as part of group Hellz.</p><p>HE5 was added to combat with initiative 23 as part of group Hellz.</p></div>
+<div class="character-2"><p>HE1 removed from combat.</p></div>
+<div class="character-2"><p>HE2 removed from combat.</p></div>
+<div class="character-2"><p>HE3 removed from combat.</p></div>
+<div class="character-2"><p>HE4 removed from combat.</p></div>
+<div class="character-2"><p>HE5 removed from combat.</p></div>
+<div class="character-1"><p>2</p></div>
+<div class="character-2"><p>HE1 was added to combat with initiative 3 as part of group Hell.</p><p>HE2 was added to combat with initiative 3 as part of group Hell.</p><p>HE3 was added to combat with initiative 3 as part of group Hell.</p><p>HE4 was added to combat with initiative 3 as part of group Hell.</p><p>HE5 was added to combat with initiative 3 as part of group Hell.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Frozen balls of fury come flying at the surprised hounds, incinerating four of them with an ice blast on the spot!</p></div>
+<div class="character-1"><p>The last one standing snarls at the group emerging from the soup...</p></div>
+<div class="character-0"><p>"Go on! Git!"</p></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (6) = <code>6</code></p><p>1d20 (<b>20</b>) = <code>20</code></p><p>26 total.</p></div>
+<div class="character-2"><p>Bellatrix was added to combat with initiative 1d20 (14) + 2 = <code>16</code>.</p></div>
+<div class="character-1"><p>"How about you finish this, captain."  Daran readies his bow, just in case.</p></div>
+<div class="character-0"><p>Bellatrix readies her swords in case the hellhound charges.</p></div>

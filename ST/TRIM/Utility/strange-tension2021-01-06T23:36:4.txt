@@ -1,0 +1,43 @@
+strange-tension<div class="character-1"><p>A dark purple arm, longer than a humanoid arm is supposed to be, starts reaching from the edge of the pit towards...  (1-Dieter, 2-Jaecob)</p></div>
+<div class="character-0"><p><span style='color: black; background: black;'>“Away fiend!”</span> <i>Abyssal</i></p></div>
+<div class="character-1"><p>Jaecob grabs his head as Dieter speaks.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>"Gods, I wish you wouldn't do that!" he says through clenched teeth.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Dieter can tell it's not an Abyssal creature, but it is not natural either.</p></div>
+<div class="character-1"><p>The arm looks almost drow-like...</p></div>
+<div class="character-1"><p>But it's too elongated to be a drow's.</p></div>
+<div class="character-0"><p>Dieter's dark eyes seem to merge with the shadows from the abyss. Then...slowly...a light begins to form in his eyes, at first like a tiny pinprick in the void, then expanding with the tidal gravity of the moon. A silvery beam of light seems to emerge from the air and stone above, falling down as a beacon of ghostly radiance on the abominable tree.</p></div>
+<div class="character-2"></div>
+<div class="character-0"><p>Dieter pulls out the Staff of Baobab as he does this and holds it close in front of him between his eyes, feeling its energy of life pulsating inside him. He stands and awaits the fel reply.</p></div>
+<div class="character-1"><p>The moonbeam hits the tree and it shrivels instantly, blown back by the blast.</p></div>
+<div class="character-1"><p>Flayco jumps out of the way just in time to miss the beam.</p></div>
+<div class="character-1"><p>"Uh... Dieter...  Might want to aim that beam over yonder..."  Jaecob points toward the arm which is now elongating across the room towards him.  He's backing away, trying to get out of the way of the disgusting sight.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The sword sticks into the arm, no blood emerges.  The laugh turns into a growl.  The arm lifts itself off the ground, somehow, and reaches out to Muhlen.</p></div>
+<div class="character-1"><p>"Shite, shite, SHITE!!!"</p></div>
+<div class="character-0"><p>“Jaecob!!!”</p></div>
+<div class="character-0"><p>Dieter swirls his concentration around on the gross groping arm, sending the moonbeam flying across the room to defend his friend.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The beam of moonlight laces across the floor, narrowly missing Flayco.  What it doesn't miss is the arm, which disintegrates in a puff of smoke and sizzle.  Part of the miasma that is keeping the disc afloat also gets sliced by the beam, though.  The horrors beneath scream out in pain, for just an instant.  The disc rocks on the roiling cloud.  A strange tension permeates the room...</p></div>
+<div class="character-0"><p>Dieter moves the moonbeam directly over the miasma, then picks up a few bits of rubble and charges them, handing them over to Jaecob. “Might need something less mundane for what’s coming...”</p></div>
+<div class="character-2"></div>
+<div class="character-0"><p>“Get ready to strike! And for gods sake, stay back! Shelli, get your shell nice and shiny for whatever comes up. Flayco...do...whatever it is you do! We’re all in this together!!!”</p></div>
+<div class="character-1"><p>Jaecob grabs the stones and readies his sword.</p></div>
+<div class="character-1"><p>The stench of sulfur fills the air as something large buffets against the miasma.  Once, twice, thrice it rams the dense fog, trying to jar it loose or end it's effect.  The disc atop the surface wobbles, rights itself, then tips with the last knock against the dark cloud.  Jaecob looks at Dieter.  "Is that important enough to try and reach?"</p></div>
+<div class="character-0"><p>“Hells if I know! Let’s just stay alive!...Come on now you devils, show yourselves!”</p></div>
+<div class="character-1"><p>As if on cue, as soon as Dieter speaks the words, a strange gelatinous substance issues from the crevice left by the moonbeam.  It climbs out and, piling upon itself, forms the visage of a female drow.  She cocks her head at the party.</p></div>
+<div class="character-1"><p>As more goo issues forth from the floor, more and more drow form, until six lithe, angry drow warriors are sneering at the four heroes.  (Perception check, please!)</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Dieter can see a thin tendril of something connecting all of the drow together.  Also, now they're very solid, they don't seem to be gelatinous any longer.</p></div>
+<div class="character-0"><p>(are they in the moonbeam still?</p></div>
+<div class="character-0"><p>“State your purpose or begone. It will happen one way or another...”</p></div>
+<div class="character-1"><p>Let's get into initiative then!!</p></div>
+<div class="character-2"></div>
+<div class="character-2"><p>EL1 was added to combat with initiative 1d20 (2) + 3 = <code>5</code>.</p></div>
+<div class="character-2"><p>FL1 was added to combat with initiative 1d20 (12) - 3 = <code>9</code>.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>17</p></div>
+<div class="character-2"><p>BL1 was added to combat with initiative 1d20 (12) + 2 = <code>14</code>.</p></div>
+<div class="character-0"><p>Dieter, dripping with dew, feels a drop plop from his mop down on top of his crop. He takes it in between the thumb and forefinger of his left hands and beckons the moonbeam to invoke the tides!</p></div>
+<div class="character-2"></div>

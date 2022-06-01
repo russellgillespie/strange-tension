@@ -1,0 +1,144 @@
+strange-tensionThe motley crew of a road-hardened druid, a grimy noble-cum-fighter, an odd amalgamation of a dragon and an illithid, and a giant snail make their way through the torch-lit hallway.  Closer and closer the mumbling comes.  The door is halfway open, and just from the opening, Dieter can make out a cozy room.
+Bookshelves line the walls, most are overflowing with scrolls and parchment.  A large light source seems to be coming from just beyond the door, as is the mumbling.  Wet, gurgling mumbles emanate from the space in the room no one can see.  Flaco gets more and more animated as the group closes in on the door.
+A ghostly voice passes by Dieter's ear, riding a cold breeze.  "Yesss...  this way, druid.  My final resting place is close..."
+Dieter shudders but heeds the call and moves to follow, his hand at the ready on his bladestaff.
+Active character changed to Dieter Deleter.
+
+"*Muhlen...*" Dieter mutters. *Damnable fool....*"
+...and he walks on down the hall...
+The druid pushes the door open...
+Active character changed to Dieter Deleter.
+
+
+Dieter grips the Annilus hard and grits his teeth as this invasive voice probes his mind, willing it out of his head.
+The voice becomes a trickle then a whisper as it is forced from Dieter's mind altogether.  Surprise tinges the illithid's face as it feels this too.  He floats-rises to standing beside his contained ritual fire.  Pointing at the newcomers, he hisses through tentacled facial appendages and it's hands are wreathed in a purple-blue light.
+Illithi-arcanist was added to combat with initiative 1d20 (15) + 1 = `16`.
+Active character changed to Dieter Deleter.
+
+2
+Flayco was added to combat with initiative 1d20 (16) - 3 = `13`.
+Flayco removed from combat.
+2
+Shelli was added to combat with initiative 1d20 (5) - 3 = `2`.
+FL1 was added to combat with initiative 1d20 (18) + 2 = `20`.
+You must start combat with `!init next` first.
+
+Active character changed to Jaecob Muhlen.
+
+Seeing the beast attacking it, something flashes in it's eyes, and the mind flayer reaches for Flayco...
+
+It laughs (physically), a slow, wet sound that raises the hackles on the backs of your necks.
+
+Flayco's eyes flicker and move to look at the rest of the party...
+“Oh no ye don’t ye filthy illithid!”
+
+
+Active character changed to Jaecob Muhlen.
+
+Active character changed to Jaecob Muhlen.
+
+
+
+
+
+Active character changed to Jaecob Muhlen.
+Active character changed to Dieter Deleter.
+
+Active character changed to Jaecob Muhlen.
+@CasualT, accept a copy of Jaecob Muhlen? (Type yes/no)
+yes
+Copied Jaecob Muhlen to CasualT's storage.
+alist
+
+
+[!char *character name*]
+Active character changed to Jaecob Muhlen.
+
+Active character changed to Dieter Deleter.
+
+
+
+
+
+
+
+No matching spells found in the combatant's spellbook. Cast again with the `-i` argument to ignore restrictions!
+That's not a valid save.
+That's not a valid save.
+That's not a valid save.
+You do not have permission to view this combatant's attacks.
+That's not a valid save.
+
+That's not a valid save.
+
+
+
+[!r 1d20]
+
+
+
+[!c acrobatics]
+
+[!i a list]
+[!i a list]
+
+[!game status]
+
+
+
+Active character changed to Jaecob Muhlen.
+
+
+It is not your turn.
+
+
+
+Effect Charmed (Dominate Monster) removed from FL1.
+Effect Dominate Monster removed from Illithi-arcanist.
+Also removed 1 child effects.
+
+
+
+
+Active character changed to Jaecob Muhlen.
+Active character changed to Dieter Deleter.
+[!i s dex or strength]
+
+[!i next]
+
+
+
+
+
+
+
+Active character changed to Jaecob Muhlen.
+[!update]
+Updated and saved data for Jaecob Muhlen!
+Active character changed to Dieter Deleter.
+
+Active character changed to Naman Thunderwalker Elaneaku.
+
+[!i s death]
+[!i s dex or strength]
+
+
+
+
+
+As the mind flayer dissolves into  pool of goo, the druid and company area able to take a better look around the room. (Investigation or Perception checks, please!)
+Active character changed to Dieter Deleter.
+
+Active character changed to Jaecob Muhlen.
+
+Jaecob, coming to himself after that harrowing fight, touches his head.  Directly in the center of his forehead, a rough edged hole about an inch in diameter, is trickling blood down his face.  He smears is a bit, then falls back prone and lets out a long shaky breath.  
+
+Dieter, with a quick glance, can tell this is a ritual room, and one was broken up just as the adventurers got there.  The words and symbols don't mean a lot, but they look Iliithi in nature.  Scattered books and papers are strewn about, but most are written with such a hasty scrawling hand, nothing of note can be gleaned. There are four doors, one in each corner of the room.  (All are closed, the fire is near embers now, but there is a small pile of sticks and tinder next to the papers.  Behind you, the hallway has two branching lines to the W - or your right.  There are three doors that way, two on the left and one on the right.)
+
+Dieter looks around the room at his faithful menagerie and beams with pride at their handling of the arcanist.
+"Let us all take a moment to calm our nerves and take stock here. Jaecob, what do you make of this place?"
+
+
+"Dodgy place..."
+"Best to keep moving."
+"Agreed..." says Dieter as he notes the myriad exits to the room. "Best start to the left." he states as he proceeds to the Southwest door.

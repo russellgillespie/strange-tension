@@ -1,0 +1,47 @@
+strange-tension<div class="character-1"><p>The ice boat is rotating fast.  As it's sucked towards the rapids and a decently steep first drop, the boat is either going to go down sideways, or right itself to going forward or backwards.  (The line-up is Maouelue, Bellatrix, Benna, and Daran, from front to back?)</p></div>
+<div class="character-1"><p>As the boat twists around, dips, dives, it rights itself and heads over the first set of rapids, thankfully with Maouelue in front, steering!</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Rushing water sprays up as the first rapid is met.  All of the sudden, the speed picks up as if the boat is pushed by a giant hand.  The drop is precipitous, and rocks jut out at all angles.  The light-orb hovers just in front of Maouelue, giving him a spine-chilling view of the tunnel they're about to traverse.  It is ever descending.  Untold numbers of rock spikes poke out from the walls and the water itself, almost as if the tunnel has teeth.  Benna starts giggling.</p></div>
+<div class="character-1"><p>The boat plunges twenty feet down in an instant, and the group goes down a waterfall!</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The company careens out of control down the drop, the back of the boat listing dangerously close to a group of spikes.   Just as it sets down in the water, a spike comes up and spears Daran in the shoulder.  Then, he and the rest of the group are wrenched away with the rushing tide.</p></div>
+<div class="character-2"><p>OK, ending...</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The buoyancy of the ice boat helps to float the group down the quickening river.  A few more bumps along some stubby stalagmites and the four find themselves in a coursing flow that is heading toward darkness...  and further and further down.  (Perception checks, please!)</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (6) = <code>6</code></p><p>1d20 (7) = <code>7</code></p><p>13 total.</p></div>
+<div class="character-1"><p>Bellatrix and Benna are too busy paddling and removing water from the boat, but Maouelue and Daran can feel the air around them, almost imperceptible, heating up.  As if they were headed into a heat source.</p></div>
+<div class="character-1"><p>In front of them, out of the darkness, is a massive upthrust of mountain stone, complete with piercing juts of rock.  The water flows to the right and left - which way does Maouelue go?</p></div>
+<div class="character-0"></div>
+<div class="character-0"><p>Maouelue paddles hard to the left.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Benna isn't able to react quick enough to the quick turn, and her hand gets caught by one of the passing rock outcrops.</p></div>
+<div class="character-1"><p>After edging into the left course, Maouelue notices immediately that it's flowing slower down this route.  There are still the outcroppings, enclosing on the four as if the mountain were about to chew and swallow them.  (Perception checks, please!)</p></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (3) = <code>3</code></p><p>1d20 (<b>20</b>) = <code>20</code></p><p>23 total.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Growling echoes throughout the cave.  It makes it sound even more like a hungry mouth now.  Water sprays up as the boat splashes next to rocks jutting from below.  Suddenly, Benna gasps...</p></div>
+<div class="character-1"><p>A group of slithering serpents bob and weave through the water, approaching the boat <i>fast</i>!</p></div>
+<div class="character-1"><p>57</p></div>
+<div class="character-2"><p>GI1 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI2 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI3 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI4 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI5 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI6 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI7 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI8 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p><p>GI9 was added to combat with initiative 22 as part of group EEEEEEEEEELS!.</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (13) = <code>13</code></p><p>1d20 (19) = <code>19</code></p><p>32 total.</p></div>
+<div class="character-2"><p>Bellatrix was added to combat with initiative 1d20 (9) + 2 = <code>11</code>.</p></div>
+<div class="character-0"><p>“Look out everyone! It’s...Eeeeeeeeeeeeels!!!!”</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The eels swarm, and they all jump and bite at the heroes...</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>(I'll run that crit fail in a sec...)</p></div>
+<div class="character-0"><p>Bellatrix looks at her hands, bereft of her cantrip, she looks around for inspiration.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>(I'll allow it... this time 😉</p></div>
+<div class="character-1"><p>Bellatrix <i>cleaves</i> through a swath of eels!</p></div>
+<div class="character-0"><p>The metal mage’s rapid ride has risen his inner ions. He charges, glowing a more golden shade of white and blue than his usual translucent pallor. A crackle seems to arc to the nearby stalactites-and-mites, caging around the periphery of the boat and bursting outwards to overwhelm the onrushing eels.</p></div>
+<div class="character-2"></div>
+<div class="character-0"><p>He reaches out, shielding Bellatrix.</p></div>
+<div class="character-2"></div>

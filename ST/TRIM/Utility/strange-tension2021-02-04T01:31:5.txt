@@ -1,0 +1,47 @@
+strange-tension<div class="character-1"><p>Maouelue and Daran try to spot a safer place to traverse the range.   Daran is at a complete loss, but the Dragon Mage sees a possible route.  It's not the best route over, looks pretty steep from this vantage point, but it's better than the nightwalkers... <i>shudder</i></p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 4 iterations...</p><p>1d20 (12) = <code>12</code></p><p>1d20 (2) = <code>2</code></p><p>1d20 (9) = <code>9</code></p><p>1d20 (8) = <code>8</code></p><p>31 total.</p></div>
+<div class="character-1"><p>It's getting colder as the group strays from the path to the mountain pass.  (Two more full check to get to the new route through/over the mountain!)</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 4 iterations...</p><p>1d20 (<b>20</b>) = <code>20</code></p><p>1d20 (<b>20</b>) = <code>20</code></p><p>1d20 (12) = <code>12</code></p><p>1d20 (8) = <code>8</code></p><p>60 total.</p></div>
+<div class="character-1"><p>Everyone is making great time, and pushing hard to get the pass.  The mountain looms in front of them.  The nightwalkers let out a baleful, clicking howl, sending shivers down everyone's spine.</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 4 iterations...</p><p>1d20 (17) = <code>17</code></p><p>1d20 (2) = <code>2</code></p><p>1d20 (3) = <code>3</code></p><p>1d20 (6) = <code>6</code></p><p>28 total.</p></div>
+<div class="character-1"><p>Just as the group gets to the foot of the mountain, the group enters the shade proper.</p></div>
+<div class="character-1"><p>Benna is suffering from exhaustion.  (Her survival check is at disadvantage.)</p></div>
+<div class="character-1"><p>Daran rummages through his pack, gets out the meager climbing gear, and says, "Let's bundle up.  It's going to get colder as we get higher."</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (14) = <code>14</code></p><p>1d20 (11) = <code>11</code></p><p>25 total.</p></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>2d20kl1 (<s>3</s>, 2) = <code>2</code></p><p>2d20kl1 (<s><b>20</b></s>, 13) = <code>13</code></p><p>15 total.</p></div>
+<div class="character-1"><p>Tramping up the new pass, the group finds a great, easy slope up and make it a decent distance.  There are a few concerns...  there are a few ledges here that look pretty dangerous.  Plus, there happen to be a few caves and crevices through this pass, which could hide a number of things...</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (7) = <code>7</code></p><p>1d20 (9) = <code>9</code></p><p>16 total.</p></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>2d20kl1 (<s>16</s>, 3) = <code>3</code></p><p>2d20kl1 (<s>3</s>, <b>1</b>) = <code>1</code></p><p>4 total.</p></div>
+<div class="character-1"><p>The climb starts getting rockier, steeper.  Daran leads as best he can, making sure the creatures are at a distance and that they're putting the right feet forward.  However, it is taking longer than expected.  Everyone, now, is suffering a point of exhaustion.  Couple that with the fact that the group has not slept in quite a while, this might be difficult going.  (Perception checks, please!)</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (18) = <code>18</code></p><p>1d20 (15) = <code>15</code></p><p>33 total.</p></div>
+<div class="character-1"><p>Benna sits shivering in the snow-packed trail.  The rest spy a cave a little further on.  Daran, sizing up the group's situation, says to Maouelue, "Might be best to take a breather.  There's a cave up ahead there.  You and I can check it out, maybe make camp there for a longer rest?"</p></div>
+<div class="character-0"><p>Lumao looks over at the sisters, who are looking rough and bitterly cold. </p><p></p><p>“To the cave!”</p></div>
+<div class="character-0"><p>“But for the sake of the gods, keep a lookout for anything that moves!”</p></div>
+<div class="character-0"><p>"Let me take the lead on this one!"</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Daran covers Maouelue's flank, the women huddle against the mount wall, trying to escape the bitter wind.  Maouelue does not see anything at this point, the cave looks to be deep, more than 20ft deep at least.  There are no animals visible. </p><p></p><p>As the pair continue to make their way to the mouth of the cave, nothing else presents itself, but the inside is more visible now.   Darkness shadows the back of the hole in the mountain.  The ceilings are covered in sharp icicles, which start ten feet overhead.  The snow goes in a few feet, but the eddies of wind keep the rest of the cave snow free.  (Perception check, please!)</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>With a good look, and with Maouelue's dark vision, he can see pretty far into the cave.  It goes on a distance, the space opening up well past the limit of his vision.  Bones litter the floor.  Small bones, none look to be bigger than a human hand bone.  At least of what he can see.  (What would you like to do?)</p></div>

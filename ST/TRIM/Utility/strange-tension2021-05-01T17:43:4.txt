@@ -1,0 +1,68 @@
+strange-tensionThe internal fire burns brighter as the creature's eyes start to take on the orange glow.   It stays immobile, however, as large sections of ice melt away from it, slowly freeing it from it's prison.
+
+(Are you continuing to cast 'Command'?)
+
+Valorian Tel-Amra removed from combat.
+2
+YO1 was added to combat with initiative 1d20 (**20**) + 1 = `21`.
+It snarls and starts to advance, immediately!  (It has a 4 - total - Intelligence score!)
+
+GI1 was added to combat with initiative 1d20 (3) + 3 = `6`.
+
+The monster lashes out past the mage and to the elk, biting it and setting Elkamigo aflame!
+```markdown
+GI1 <Healthy>```
+Elkamigo charges!
+
+“Nice one Elkie!”
+No matching spells found in the combatant's spellbook. Cast again with the `-i` argument to ignore restrictions!
+
+
+
+“Blast! It’s immune!”
+The thing *ROARS*
+
+Maouelue slumps to the ground, mortally struck by the fiery fiend, a hollow look of hubris realized reflected on his face as he falls unconscious.
+Elkamigo bleats wildly and lunges for Maouelue, trying to pick up him up by the antlers and flee!
+
+
+The monster lashes out, but can't hit the dexterous giant elk. (!)  Maouelue lay slumped over the elks antlers, armor clanging loudly as his mount tries to run on the icy floor.
+The Elk, staring wildly, flees back and North toward the central chamber, knowing the other way to be a dead end.
+Fleeing, the elk charges out of the room, through the center circular room, and into the northernmost room, slowing and turning to sense if  their enemy reciprocates.
+
+Seconds later, Elkamigo feels confident that it isn't right on their tail.  Still, he watches.  
+
+Meanwhile...  (Maouelue, we're going to do these death saves...  whenever you're ready.)
+
+(BTW, Dieter had the amulet, correct?)
+
+“Poopootrip!”
+The Dragon Mage, amidst a fever dream of fire and ice, sees a platinum sheen behind his closed eyes.  He's then rocketed back to consciousness, in the most pain he's ever been in, dangling atop his trusty steed.
+Maouelue, reaches wearily for his pack, knowing that trying his magic in this state would be folly. He pulls out two small, swirling red bottles and unstoppers them both. He quaffs them with reckless abandon.
+@Russell
+Rolling 2 iterations...
+2d4 (**4**, 2) + 2 = `8`
+2d4 (3, 3) + 2 = `8`
+16 total.
+“Hyuuuuugggh!!!” A breath flies into the mage’s lungs as a bellows takes in its searing air.
+The elk bleats, worriedly.
+“Find...the...sisters....” he gasps as he falls prone again against the antlers.
+
+Maouelue gets close to passing out, but keeps the blackness on the edge of his periphery at bay.  As the mage made his escape through the area, he can't recall passing his other two companions.  And he can't hear anything now, save for very distant grinding of ice.
+Elkamigo looks around wildly as he approaches the center room, unsure of which way to go around the circle, yet keen to avoid the all-too-familiar ice block in the center. He turns left, somehow out of force of habit.
+The pair make their way yet again around the circular room, heading off into the last hallway they haven't checked yet.  It leads to a set of stairs, then doubles back on itself to another set.  It repeats this a few times more, always climbing upwards and doubling back on itself.  Finally, Elkamigo and Maouelue are led into a corridor which branches into two halls.  East leads into a small room with a solid block of ice covering the entire eastern wall.  North has a few alcoves with more suits of armor in them, ending in another hall leading north.
+"Thank you." says the chastened mage to his furry fey friend. "I...I...would be *gone* without you..." Tears begin to fall from the Sylvan's darkened eyes, crystalline as the freeze upon his face. "I've nearly lost everything now.... The sisters! Oh where could they be?"
+
+He slumps down and Elkamigo nestles in to the corner bay to their South, propping up the miserable mage, who goes about tending to his wounds.
+
+
+The chill begins to reach its way into the heart of the Dragon Mage. He teeters on the edge of consciousness.
+The halls up here echo with a faint breeze, coming from the north corridor.  Maouelue, as he's healing and taking a moment to gather his bearings, can hear the groaning of the castle below him, seemingly shifting on it's moorings.
+He peers warily at the suits of armor, unsure if he could take another onslaught at the moment.
+The armor looks exactly like the ones downstairs, just not animated.... yet.
+
+Bedraggled, the mage summons what's left of his spirit to at least try and prepare for the encounters ahead.
+
+“Aaaaaahhhhh now that’s the stuff! I’m a bit low on my mana reserves but I’ll mana-ge... eh? eh? Oh right, you’re just a beast...I wonder where those sisters could be. Bella might not have liked it, but I *know* Benna would have at least guffawed.... Oh listen to me prattling on...”
+
+He gathers himself and pushes on with Elkamigo through the rows of armor.

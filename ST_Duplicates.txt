@@ -1,0 +1,91 @@
+﻿SuoRess_1019 – GM (Joe)
+Avrae – Avrae
+(Thanks!)
+Russell – Harrison Phyre/Dieter Deleter
+Maouelue's attacks: **Quarterstaff**: Attack: +2 to hit. Hit: 1d6 [bludgeoning] damage. **2-Handed Quarterstaff**: Attack: +2 to hit. Hit: 1d8 [bludgeoning] damage. **Unarmed Strike**: Attack: +2 to hit. Hit: 1 [bludgeoning] damage.
+!sb
+!spell find familiar
+Incorrect usage. Use !help init for help.
+!char
+Currently active: Maouelue
+"<="""" p="""">"
+Target not found.
+Combat ended.
+@Russell :game_die: **Result**: 1d4 (2) + 1 **Total:** 3
+Selection timed out or was cancelled.
+Currently active: Dieter Deleter
+Updated and saved data for Maouelue!
+Updated and saved data for Dieter Deleter!
+(DAMN!)
+Incorrect usage. Use !help game for help.
+(From Dieter.)
+Pinned a message.
+Everyone roll for initiative! If you have a character set up with SheetManager: `!init join` If it's a 5e monster: `!init madd ` Otherwise: `!init add `
+1
+I have sent help to your PMs.
+Invalid spell level.
+!spell produce flame
+There are no choices to select from.
+Custom counter created.
+!cc summary
+(Nicely done!)
+!a scimitar -t sw1
+(Np)
+!spell magic missile
+!spell ray of frost
+**Initiative 4 (round 2)**: Dieter Deleter (@Russell) ```markdown Dieter Deleter <6/10 HP> (AC 16)```
+c
+6
+This channel is not in combat.
+@Russell :game_die: **Result**: 1d20 (17) **Total:** 17
+@SuoRess_1019 :game_die: **Result**: 1d20 (11) **Total:** 11
+!cc create Stones
+(?)
+@SuoRess_1019 :game_die: **Result**: 1d20 (17) **Total:** 17
+(Perf)
+@SuoRess_1019 :game_die: **Result**: 1d20 (13) **Total:** 13
+!init add
+Error: modifier is a required argument that is missing. Use `!help init add` for help.
+Channel already in combat.
+@Russell :game_die: **Result**: 1d4 (**1**) + 2 **Total:** 3
+BA2: 
+(Perception check.)
+"(Investigation check, please!)"
+!prep list
+Updated and saved data for Douglas!
+@SuoRess
+Invalid operator. Use mod or set.
+Dieter Deleter's attacks: **Scimitar**: Attack: +4 to hit. Hit: 1d6+2 [slashing] damage. **Unarmed Strike**: Attack: +1 to hit. Hit: 0 [bludgeoning] damage.
+!item sling
+AS1: 
+!monster spider
+!madd Spider -group Wildshape
+!bag
+"(Insight check, please!)"
+n
+14
+You cannot remove a combatant on their own turn.
+**Initiative 10 (round 1)**: Dieter Deleter (@Russell) ```markdown Dieter Deleter <35/35 HP> (AC 16)```
+"(Intelligence check, please!)"
+3
+!cc remove Bardic
+Deleted counter Bardic.
+"!cc create ""Bardic Inspiration"""
+!ws Ape
+Ring of Protection
+-2
+-1
+!cc remove xp
+Deleted counter XP.
+!cc XP -min 0 -max 6500
+!cc create XP -min 0 -max 6500
+GI1: 
+**Initiative 16 (round 3)**: Dieter Deleter (@Russell) ```markdown Dieter Deleter <14/35 HP> (AC 16) * Flame Blade  * Flaming Blade (Attack: +5|3d6[fire]; Parent: Flame Blade)```
+@SuoRess_1019 :game_die: **Result**: 1d12 (**1**) **Total**: 1
+13
+"(Dex saves for everyone, please!)"
+Attack not found.
+Target not found.
+Incorrect usage. Use !help init for help.
+Selection timed out or was cancelled.
+There are no choices to select from.

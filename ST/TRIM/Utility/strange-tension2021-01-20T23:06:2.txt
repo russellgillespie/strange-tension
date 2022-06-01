@@ -1,0 +1,29 @@
+strange-tension"Scrolls and tomes yer gonna want either the palace library or Mezomes Tomes, just a few doors down 'ere," and he points you down the street.  "Sfar as wizards are concerned, best places fer that'd be Spellbound, The Elder Marker, or The Lonely Elf.  All of them are in the East part of the city.  The first two are on the main road, the last is right near the city gates.  Can't miss 'em."
+“Many thanks friend. I’ll be back around in two days to take a look at things. Fare ye well.”
+Maouelue accepts the previous offer on his goods and then proceeds to Mezomes Tomes.
+Daran is sitting outside the tri-shop, looking over his new group of arrows.  He looks up, ready to get going.  Maouelue moves down the road to a smaller shop, tucked away in a cul-de-sac of walkways.  It is demure, simple, un-decorated.  Shelves of parchment and leather-bound books abound.  A booking elf with a pair of spectacles perched on the end of her long, slender nose looks up as the pair come in.  In a soft, feathery voice, she says, "Hello?!  How can I help you today?"
+“Oh hello madam! I am a scholar of the arcane arts. I’m looking for a few spell scrolls to bolster my collection! And I wouldn’t say no to a tome of local lore!”
+She looks surprised, then it turns to elation as she scurried out from behind the back of her counter to meet with you.  You can see now that her hair, normally well kept for most eladrin, is a bit scraggly. The spectacles make her amber eyes look three times as big as they should.  She's wearing very plain clothing, but strangely has a traveler's leather vest with many pockets on the front.  She fairly skips over to the duo, making little squeaking noises.  The five cats in the shop look up in curiosity.   A black cat comes over and weaves through Maouelue's legs.
+"The lore of the Fey lands?  Really?!  Oh, I'm so excited, that's what I am *most* passionate about here.  Is there an area of expertise you're focused on, or the city itself?"  She looks very expectantly at both men.
+“As a matter of fact, I have a few interests. I would know more about the veil that connects the realms, how it weaves the planes together. I would learn of the Fortess of Frozen Tears, for I have heard a small bit that has peaked my interest. Last, I would learn of the trials and rights of lineage of the peoples here. I am a sort of anthropologist that comes from Faerun. I am curious to compare the Sylvan traditions with those of the Feywild...
+
+...oh, and yes, whatever spell scrolls you might have about. I would peruse them if they be available.”
+"Oh.. Oh, my, yes!"  Her hands patter while she looks around the shop.  She tries to steady herself and centers back on Maouelue.  "I can get you the appropriate texts you would need about the Fortress of Frozen tears and the Trials of the Eldar.  OH!  And I have *many* texts and scrolls on the planes and travel between them.  You come from Faerun, you say!  Oh my, that's *lovely*!  Tell you what, I'll get some items together, and you and your friend can peruse the spell scrolls at the rear of the store.  They're arranged alphabetically and by level.  I'll meet you back there soon?!"
+“Fantastic! The name’s Maouelue, though I used to go by Lumao. You may use either. What is your name mistress?”
+She looks shyly at the mage, curtsies, and says, "Nuala Beilyn, m'lord.  Please, take your time to look through my family's store.  I'll gather your texts!"
+
+"Aaaah let's see, well for starters, I've always been keen on a certain little tidbit called *Ice Knife*. Do you have one of those around? I'll consider some others while you look."
+"About what rates are these going for by the by? I've not had cause to shop in this city prior."
+Daran helps Maouelue look.  (Luck check, please!)
+Thinking back to his encounter with the giants and goblins in the forest, he adds, "What about Expeditious Retreat as well?"
+"...Cloud of Daggers?"
+"Hmm...What else...errr...Lightning Bolt?"
+"Ok ok. and you know the last thing I'm looking for is...Frost Fingers."
+With Daran's help, the wizard is able to find Ice Knife, Expeditious Retreat, Lightning Bolt, and Frost Fingers.
+The woman comes back with a pile of books.  She places them down next to Maouelue and asks, "Did you find the scrolls you were looking for?"
+“A far few indeed! And see what it is you’ve got there! Oh I do love a good lore dump.”
+"Don't meant to be too brash, but what might we be looking at for this lot?"
+"Oh, my!  Let's take a look."  She peruses the lot.  "All of those, that will be 550 gold pieces.  You might not want all the ones I've found, but all together," Maouelue looks and there's seven books the woman found, "with the scrolls and the books, 800 gold pieces."
+Maouleue holds out 800 of the gold coin from the armory and accepts the goods. “Thank you for ever so much. Your work will be put to very good ends. I’m sure I’ll be in again sometime. Adieu madam.”
+Nuala takes the money, and says, "Thank you, m'lord.   Here is a satchel, for you to take everything!"
+*Feywild*

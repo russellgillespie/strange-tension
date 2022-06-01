@@ -1,0 +1,46 @@
+strange-tension<div class="character-1"><p>All of the suits of armor are frost-rimed, about 7 ft tall, and each carry a long bastard sword at various stages of presentation.   There are five more, the alcoves they are in only have room for the armor.  They are all still immobile.</p></div>
+<div class="character-1"><p>The dripping gets louder as you move farther S.</p></div>
+<div class="character-0"><p>They walk on down the hall.</p></div>
+<div class="character-1"><p>Elkamigo and Maouelue make their way through the corridor, passing into the room with the frozen monster...  which is slowly losing its frost covering.  This is where the dripping sound has been coming from, as a small puddle has formed underneath the creature.   It's antennae are sticking out, completely clear, and a portion of it's head is barren, yet the majority of the monster is encased.  </p><p></p><p>The giant elk moves slowly past the creature, seeing it's eyes following the pair.  Maouelue takes his eyes from the beast back down the W hall to the pool room...  and realizes something.  This is where Bellatrix and Benna were.  Yet, upon further inspection of the immediate area, they are nowhere to be found.  The dripping quickens.</p></div>
+<div class="character-0"><p>Maouelue hops down from the furry frame and indicates for Elkamigo to back up into the entryway as he comes closer to inspect the beast.</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The creature's name escapes him, but Maouelue definitely remembers that these beasts live in the ice and snow - usually under it, as a matter of fact - and ambush their victims.  With that knowledge, looking around on the floor the mage sees bits of different types of armor and weapons frozen underneath the massive worm-like thing.</p></div>
+<div class="character-1"><p>There seems to be a orange-red glow coming from the creatures chest, too.  Deep withing the thing itself.</p></div>
+<div class="character-0"><p>Maouelue inspects the water melting off the form, was this the magical sort or the other? He takes no chances, quickly attempting to form the water once again into a cage of ice spikes surrounding the creature.</p><p>[Shape Water]</p></div>
+<div class="character-0"><p>He then reaches out with his feelings, trying to sense the creature’s conscience.</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The Dragon Mage centers himself.  After a few deep breaths, he briefly thinks on Dieter and what he would do in this situation.  One more deep breath, and he squeezes his eyes close and reaches out with his feelings, with his emotions...  and finds an inferno of pain an anger raging in front of him.  The fire seems to be intensifying, while the emotions of the beast are lashing out at him, even in this amorphous state.  Maouelue feels the hate the creature has for anything humanoid, especially giant-kin.  It's especially fearful of the suits of armor, of which it believes Maouelue is a part of.  </p><p></p><p>Maouelue's eyes fling open as it mentally begins showing the mage what it plans to do with anything it encounters when it is freed.</p></div>
+<div class="character-0"><p>“Calm your anger ancient one. I am not your keeper, and we need not come to blows. I sense your hatred for this frozen place, your heartsfire makes this plain. Let me show you my intentions are noble.”</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-0"><p>Mao begins to accelerate the melting of the ice prison.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The internal fire burns brighter as the creature's eyes start to take on the orange glow.   It stays immobile, however, as large sections of ice melt away from it, slowly freeing it from it's prison.</p><p></p><p>(Are you continuing to cast 'Command'?)</p></div>
+<div class="character-2"></div>
+<div class="character-2"><p>Valorian Tel-Amra removed from combat.</p></div>
+<div class="character-1"><p>2</p></div>
+<div class="character-2"><p>YO1 was added to combat with initiative 1d20 (<b>20</b>) + 1 = <code>21</code>.</p></div>
+<div class="character-1"><p>It snarls and starts to advance, immediately!  (It has a 4 - total - Intelligence score!)</p></div>
+<div class="character-2"></div>
+<div class="character-2"><p>GI1 was added to combat with initiative 1d20 (3) + 3 = <code>6</code>.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The monster lashes out past the mage and to the elk, biting it and setting Elkamigo aflame!</p></div>
+<div class="character-2"><p><pre><code>
+GI1 <Healthy></code></pre></p></div>
+<div class="character-0"><p>Elkamigo charges!</p></div>
+<div class="character-2"></div>
+<div class="character-0"><p>“Nice one Elkie!”</p></div>
+<div class="character-2"><p>No matching spells found in the combatant's spellbook. Cast again with the <code>-i</code> argument to ignore restrictions!</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-0"><p>“Blast! It’s immune!”</p></div>
+<div class="character-1"><p>The thing <i>ROARS</i></p></div>
+<div class="character-2"></div>
+<div class="character-0"><p>Maouelue slumps to the ground, mortally struck by the fiery fiend, a hollow look of hubris realized reflected on his face as he falls unconscious.</p></div>
+<div class="character-0"><p>Elkamigo bleats wildly and lunges for Maouelue, trying to pick up him up by the antlers and flee!</p></div>
+<div class="character-2"></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The monster lashes out, but can't hit the dexterous giant elk. (!)  Maouelue lay slumped over the elks antlers, armor clanging loudly as his mount tries to run on the icy floor.</p></div>

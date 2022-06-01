@@ -1,0 +1,38 @@
+strange-tension"I fear the darkness that grows in the mountains and forests, and would use my every power to prevent its spread."
+"Pray, relay this to the elders, for we must not delay if we are to follow Culver's fate to the heart of this darkness."
+He looks at you, stunned.
+"Ah...  Aye, aye goodman Wizard.  I'll be sure to relay your interests to the Council.  They would be very happy to hear of your interest to protect the town."  He bows low to you.  "Mell met, kind sir.  Kirra, please let me know if these men need anything."
+And with that, he turns and hastens away.
+The milling crowd lets out a tired but heartening, "Huzzah," and quickly goes back to their respective daily grinds.
+Kirra says to Maouelue, "You have quite a way with words, Master Wizard.  And we very much appreciate what you've said you'll do for the town.  If you pardon my asking, why do you think an evil has beset Oakhurst?  We're not much to speak of."
+"Oh...  My, okay.  Let me see..."  She steps gingerly into the wreckage of your former room, taking care not to step on anything smoking or water-logged.  She squats on her haunches when she gets near to the pile of now dimly glowing coins.
+"There's something written on these.  On all of them. But I... I can't quite...  No.  I can't make it out at all.  Looks to be some other language.  Are these your coins?"
+
+*Maouelue summons a fey arctic fox, takes out a book, pen, and ink from his backpack, then quickly scrawls a message relaying these events to Dieter, bidding him to join them in the drawing room of The Sleeping Sheep as soon as possible. He tears the page out and quickly rolls it up, then places it in the fox's trap. He then touches a glowing blue spot in the middle of its forehead with his thumb and forefinger, telepathically directing the fey creature to bring this at once to Dieter at the parsonage of Ilmater.*
+Maouelue sits in ritual to produce a fox companion.  As he does so, Kirra searches The Sheep as well as surrounding shops for a metal container for the coins.  She comes back to the wizard disheartened and empty handed.
+"I could find no metal box that would work for what you want.  There is a metal coffer Kentham owns, it is too small for this amount, though."
+*He scribbles on another page “...bring your net...” and tucks it inside the other message roll, then sends the fox hence.*
+*The wizard begins to gather a load of the other materials and meets Kirra’s eye in search of direction to the room of her choice.*
+"Oh...  Um... Through here.  You can use our gathering room."  She leads you to a larger room guests use as a dining hall.  It's a decent sized common room, with some recessed corner tables you can use to set up shop.
+"Of course, I would be happy to.  Would you like me to bring you anything before I do?"
+@SuoRess_1019, Secret key sent in private.
+The lady bows herself out.  You are alone in the common room.
+*Maouelue continues to gather loads of silver and equipment, arranging them in the corner of the room.*
+*Dieter stares, still captivated by the locket, then suddenly snaps to his senses. His attention turns to Douglas. He leans over and attempts to rouse the wounded warrior.*
+"..."
+*Dieter pulls out one of Trix’s swirling red potions and looks at it curiously. He uncorks the bottle and purses Douglas’ mouth open, then trickles a couple of drops down his throat...hoping...*
+The liquid is swallowed.  You wait a beat.  And another.
+
+You first see the blood on the bandage recede.  Douglas's eyes flutter.
+*Dieter takes Douglas’s head in hand and gasps, “My friend!”*
+He's not very strong yet, holding his head feels like holding a heavy, unbalanced melon.  His eyes flutter some more, then, slowly, they open.
+"Dieter?"
+“Douglas! Who did this to you my good man?”
+He looks around the room with his eyes, not daring to lift his head yet.
+"I... didn't see his face.  He came outta nowhere.  Put the knife into my gut.  When he pulled it out, I screamed and...  then everything went black.   How long have I been out?  Where are we?"
+"He was still passed out when I sat down against the Pig to rest my eyes."  He breathes heavily.  "Guess that was a pretty bad idea, eh?"
+*Dieter reaches for the rune cloth in his pocket only to recall that it is still in Maouelue’s possession.*
+"What cleric?  Oh, right.  We're in Ilmater's parsonage.  If I could get some water, I think I might be able to try to get up."
+*Dieter hands him what’s left of his waterskin.*
+He drinks sparingly, making sure he doesn't over do.  Douglas winces as he sits up, but then looks surprised and takes the bandage off.  Underneath is a gash neatly knitting itself back together, the blood receding as if being erased.
+"Wow! Thank you friend.  Those bottles are better than gold!  So," he says, getting up, "What should we do now?"

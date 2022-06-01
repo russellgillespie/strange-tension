@@ -1,0 +1,119 @@
+strange-tension-name was added to combat with initiative 1d20 (4) + 0 = `4`.
+-name removed from combat.
+Benna was added to combat with initiative 1d20 (10) + 0 = `10`.
+Benna removed from combat.
+Benna was added to combat with initiative 0.
+
+
+
+It is not your turn.
+
+
+
+
+
+
+Bella launches three searing blasts out at the oncoming beasts, then retreats back to cover her sister.
+It is not your turn.
+The Yeti are going to run up and attack the three in turn.
+
+
+
+Bellatrix feels a cold wave come over her...  and it passes as quick as it comes.  She steels herself for battle.
+Fiercely protecting his crew, Lumao moves to to front of the horde, lining himself up to cover as many as possible with...
+
+Cooling off his hands, he prepares another frosty ball.
+
+
+
+
+The bird things fly out of the cave ceiling and dig their talons into the sisters!
+Bella blasts out at the flying beasts.
+
+
+
+
+
+
+
+"The time has come..."
+"Metallicomets!"
+"Come forth!"
+
+( ;P )
+
+
+
+
+mc3 -t ye1 -t ye2 -t ye3
+
+Fear grows in Lumao's eyes as he sees his shiny weapon rendered useless by the abominable, icy coats.
+He turns his gaze to those in flight and unleashes!
+
+
+
+
+
+Benna takes a bottle from her robes and quickly drinks it.  She then saunters out of the shadows towards Bellatrix.  The first bird-thing falls from the air as the other rakes it's talons across Bella's arms again.  Blood gushes.  The witch is not looking good.  Daran is battling a yeti, keeping one under control, but Bellatrix is definitely getting the brunt of the creatures' attacks.
+```markdown
+Bellatrix <Bloodied>```
+The witch strikes with one blast but is flailing wildly as her heath is flagging.
+
+
+
+
+
+The witch sends out four fiery blasts then dashes behind her sister now.
+
+“Mao! Help us!”
+
+“Stay your foul gaze foe!”
+
+The claws rake across her abdomen, more blood erupts from her and she staggers.
+“Keep your filthy claws off of her!”
+Target ye1 not found.
+
+
+
+Effect Shield removed from Maouelue.
+
+"Fucking bastards..."
+
+Daran skirts around Maouelue, and gets behind the yeti attacking Bellatrix.
+
+Benna creeps on the ground and touches Bellatrix's foot, whispering in a strange language.  (Perception if you want to try and catch it.)
+
+
+
+
+
+
+
+The bloodied blood witch spits blood onto the burned and blistering beast at her feet.
+
+
+Daran makes a spinning move, chopping at the last remaining beastie.
+
+“Aha! Good one Daran!”
+"Finally.  Praise Mielikki."
+The carnage culminates with the last wall falling outwards toward the cave mouth opening, with a large *crash*.  Daran starts slicing up some of the yetis and flying beasts.  (Nature check for what they are and for any salvageable bits.  Perception or investigation if you want to check out the cave more.)
+Before Daran rummages through the detritus, he heals Bellatrix...
+
+
+
+Maouelue's never heard of these things before, but the pelts on the yeti and the flying beasts should be warm and fetch a fair price.
+The group gathers to look through the cave properly.  Maouelue, being very curious, finds that the cave rounds at the middle, where the bulk of the fighting took place, and tapers at the entrance and farther in.  There is a crevice at the very end of the cave, cracked through the rock.  It is...
+Six feet long and a foot wide.  One person at a time could fit into it, sideways.
+The mage sends the hawk in to take a closer look.
+The group sets to work on the yetis and their flying companions.  After a time, and after setting up a nice big fire, they're able to set a few pelts together, curing in the heat.  Plus, several steaks are on a spit, fat dripping and sizzling on the cookfire.
+
+Daran sets out to check the walls, then the outside, then scouts up ahead for other animals and the general lay of the land.
+
+He gets a pretty good sense on the direction.  If they were to continue in the direction of the gash, they would be going toward the Fortress.  Generally, and that's if the cavern moves straight.  Once down there, it would be hard to tell the direction.
+The hawk-turned-bat squeeks then hops/flies down the small shaft.  Almost 80 ft further in, the crack opens up into a fairly large cavern.  The bat can only see midway through, mostly inky blackness and stalactites greet him.  However, he is able to glimpse, just as he gets to the edge of the telepathic connection, a floor several dozen feet below, with scattered pools of water around.  He detected no movement or life in the pass or the cavern.
+"This would be the time to have a Druid around...", Maouelue says, reminiscing about the *many* times Dieter would transform randomly into a spider or aught else and bugger off into a cavern. He allows himself a small chuckle that, surprisingly, offers a glimpse of an inner heat that more than matches that of the fire. The investigator notes this curiously and files it away as he considers how best to approach the situation without a shapeshifter in company.
+Daran wrestles the steaks from the fire, carving them up for everyone to try.  (Con saves!)
+
+
+
+

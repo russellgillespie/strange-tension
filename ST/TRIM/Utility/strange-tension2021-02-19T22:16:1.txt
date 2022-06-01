@@ -1,0 +1,25 @@
+strange-tension<div class="character-0"><p>“Hold on Bella! I’ve got you! Daran! Take care of Benna! We ride this out for worse or for better! We belong together!”</p></div>
+<div class="character-1"><p>(Everyone takes 11 points of damage as) Eleven stalactites detach from the ceiling as the thunder wave creates chaos inside the mountain tunnel.</p></div>
+<div class="character-2"><p>All effects removed from GI3.</p></div>
+<div class="character-2"><p>GI1 removed from combat.</p></div>
+<div class="character-2"><p>GI3 removed from combat.</p></div>
+<div class="character-2"><p>GI4 removed from combat.</p></div>
+<div class="character-2"><p>GI9 removed from combat.</p></div>
+<div class="character-1"><p>The two remaining eels yip and yap and swim away from impending death, deeper into the water.  Even though the water is moving at a quick pace, the farther and farther along the new tunnel the group moves, the quieter and quieter it gets.  It's also getting quite hot.  Stifling, even.  Daran runs a hand through the water, and shrugs.  "Water's not making this place heat up.  Wonder where it's coming from?"</p><p></p><p>Benna is shifting through her vests and comes out with three small spines.  "Here," she says to the others.  "Eat this," and she passes out a spine to each of the group.  (Do you partake?)</p></div>
+<div class="character-1"><p>[500 xp]</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>Bellatrix laughs and nods.  "Spine of hedgehog!  I haven't had this since I was a kid!"  Maouelue eats a piece.  Its crunchy like rock candy, and gives the elf a strange sensation going down his gullet...</p></div>
+<div class="character-0"><p>“Whooo! That’ll remove the force within your sinuses!”</p></div>
+<div class="character-1"><p>Rushing water continues to bring the four companions through the insides of the mountain.  They look all around, and it hits them suddenly and at the same time - there is no sound.  It continues eerily like this for a few minutes until, very faintly, the elves start to hear a small sound.  At this point it is just white noise.  The boat continues on.  (Perception check, please!)</p></div>
+<div class="character-0"></div>
+<div class="character-1"><p>The sound is still hazy, but it sounds like rushing water.  Only this is much larger, a lot of water...  And, simultaneously, Maouelue feels the pace quicken, and begin to move downhill.</p></div>
+<div class="character-1"><p>Up ahead, at the edge of his view, there is a dropoff - all he can see is the top of the tunnel angle down.  Just off to the left, right before the drop, is a small alcove.  If he's deft enough, he could nose the boat in and stop the momentum.  Or, they could go right for the fall.  What does Maouelue want to do?</p></div>
+<div class="character-0"><p>“Bottoms up!”, He charges the boat right for the falls.</p></div>
+<div class="character-1"><p>Daran's face tightens and the sisters hold hands as Maouelue steers the ice boat into the course where he hears rushing water.  The tunnel does in fact fall away, into a 45 degree drop, and the water, already quick, picks up a fever pace.</p></div>
+<div class="character-1"><p>Centuries of water making it's way though these tunnels has carved out an interesting tunnel.  Although straight in certain areas, where it does turn, it is often violent and jarring to the boat riders.  The first few are gentle enough, if surprising in the dark.  The next few, however, make it hard for Maouelue to keep the boat straight.  It knocks into the edges and threatens to tip!  (Dex save!)</p></div>
+<div class="character-2"></div>
+<div class="character-2"><p>@Russell</p><p>Rolling 2 iterations...</p><p>1d20 (5) = <code>5</code></p><p>1d20 (6) = <code>6</code></p><p>11 total.</p></div>
+<div class="character-2"></div>
+<div class="character-1"><p>The boat lists right, then left.  A massive drop and turn to the right, spiraling down, catches the sisters off guard.  Daran secures Benna, Maouelue and Bellatrix hunker down for the swirling fall.</p></div>
+<div class="character-1"><p>The tunnel spirals for another hundred feet down, then levels off again, but the pace is still intense.  Their ball of light is trying to keep up with them, to illuminate the group's way.  But it might not be needed much longer.   At the end of this very long tunnel is now an opening.  The outline of which looks lit with red flame.  There are no off-shoots, no branches.  A few rock spires stick out treacherously.  The sound of the rushing water is all-encompassing now.  The group can see the twenty foot wide exit to whatever waits below only a hundred feet in front of them...</p></div>
+<div class="character-1"><p>Rushing water careens the boat towards the opening...  (Anything you want to do before you go over the edge?)</p></div>
